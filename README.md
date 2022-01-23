@@ -1,5 +1,5 @@
 # Icons
- Icon DLL Projects
+Icon DLL Files
  
  ## File Icons
 ![File Icons 1](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/fe0f60a3-0a4b-4d93-bbb3-ecc52da29ce3/deylqfb-044ed2c4-d173-43e9-a9b2-66dbd291524f.png)
