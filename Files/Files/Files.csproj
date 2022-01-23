@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <ApplicationIcon />
+    <Win32Resource>C:\Users\Joshu\GitHub\Icons\Files\DLL_Resources.res</Win32Resource>
+  </PropertyGroup>
+
+</Project>
