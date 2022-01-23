@@ -8,6 +8,6 @@
 </img><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/fe0f60a3-0a4b-4d93-bbb3-ecc52da29ce3/deyne3z-eea9247c-7ef9-4922-b412-0d021c961109.png" width=200></img>
 <h3>Credits</h3>
 <ul>
-<li><a href="https://www.deviantart.com/deepudeepz">deepudeepz</a> - DeviantArt | Programming Folder Icons</li>
-<li><a href="https://www.deviantart.com/deepudeepz">deepudeepz</a> - DeviantArt | Programming File Icons</li>
+<li><a href="https://www.deviantart.com/deepudeepz">deepudeepz</a> - <a href="https://www.deviantart.com">DeviantArt</a> | Programming Folder Icons</li>
+<li><a href="https://www.deviantart.com/deepudeepz">deepudeepz</a> - <a href="https://www.deviantart.com">DeviantArt</a>  | Programming File Icons</li>
 </ul>
