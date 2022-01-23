@@ -1,0 +1,10 @@
+C:\Users\Joshu\source\repos\Icons\ProgrammingFolders\Icons\bin\Debug\netcoreapp3.1\Icons.deps.json
+C:\Users\Joshu\source\repos\Icons\ProgrammingFolders\Icons\bin\Debug\netcoreapp3.1\Icons.dll
+C:\Users\Joshu\source\repos\Icons\ProgrammingFolders\Icons\bin\Debug\netcoreapp3.1\Icons.pdb
+C:\Users\Joshu\source\repos\Icons\ProgrammingFolders\Icons\obj\Debug\netcoreapp3.1\Icons.csproj.AssemblyReference.cache
+C:\Users\Joshu\source\repos\Icons\ProgrammingFolders\Icons\obj\Debug\netcoreapp3.1\Icons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joshu\source\repos\Icons\ProgrammingFolders\Icons\obj\Debug\netcoreapp3.1\Icons.AssemblyInfoInputs.cache
+C:\Users\Joshu\source\repos\Icons\ProgrammingFolders\Icons\obj\Debug\netcoreapp3.1\Icons.AssemblyInfo.cs
+C:\Users\Joshu\source\repos\Icons\ProgrammingFolders\Icons\obj\Debug\netcoreapp3.1\Icons.csproj.CoreCompileInputs.cache
+C:\Users\Joshu\source\repos\Icons\ProgrammingFolders\Icons\obj\Debug\netcoreapp3.1\Icons.dll
+C:\Users\Joshu\source\repos\Icons\ProgrammingFolders\Icons\obj\Debug\netcoreapp3.1\Icons.pdb
