@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Files
+namespace Icons
 {
     public class Class1
     {

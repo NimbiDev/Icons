@@ -4,6 +4,7 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <ApplicationIcon />
     <Win32Resource>C:\Users\Joshu\GitHub\Icons\Files\DLL_Resources.res</Win32Resource>
+    <RootNamespace>Icons</RootNamespace>
   </PropertyGroup>
 
 </Project>
